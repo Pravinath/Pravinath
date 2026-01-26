@@ -47,5 +47,5 @@ Interested in Full Stack Development, Backend Systems, and Problem Solving
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/pravinath)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pravinath)
 - 📧 Email: your-pravinath156@gmail.com
