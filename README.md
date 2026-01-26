@@ -46,6 +46,13 @@ Interested in Full Stack Development, Backend Systems, and Problem Solving
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
+---
+## 👥 Group Projects
+
+- **Rural Craft – E-commerce Website**  
+  Contributor (Full Stack Development)  
+  🔗 https://github.com/Aathi125/Rural_Craft---E-commerce-Website
+
 
 ---
 
