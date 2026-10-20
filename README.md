@@ -1,70 +1,83 @@
-## Hi there 👋
-
-<h1 align="center">Hi there, I'm Pravinath 👋</h1>
+# 👋 Hi, I'm Pravinath Thurairajasingam
 
 <p align="center">
-A passionate IT undergraduate <br>
-Interested in Full Stack Development, Backend Systems, and Problem Solving
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0f172a,50:164e63,100:06b6d4&text=PRAVINATH&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Software%20Development%20%7C%20Backend%20Systems%20%7C%20Problem%20Solving&descAlignY=65&descSize=15" width="100%" alt="Pravinath profile banner" />
 </p>
 
 <p align="center">
-🚀 Building real-world projects • Writing clean & scalable code
+  <a href="https://github.com/Pravinath">
+    <img src="https://img.shields.io/badge/GitHub-Pravinath-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pravinath">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pravinath156@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
----
+## 🚀 About Me
 
-## 👨‍💻 About Me
+I'm an IT undergraduate passionate about building practical software solutions and continuously improving my development skills.
 
-- 🎓 IT Undergraduate
-- 💼 Interested in Full Stack & Backend Development
-- 🛠 Enjoy building real-world applications
-- ✨ Focused on clean, scalable, and maintainable code
-- 🌱 Always learning new technologies
+- 💻 Interested in **Full Stack Development and Backend Engineering**
+- 🛠️ Enjoy building real-world applications and solving technical problems
+- 🧩 Focused on clean, maintainable, and scalable code
+- 🌱 Continuously learning new tools, technologies, and development practices
+- 🤝 Interested in collaborating on meaningful software projects
 
----
+## 🧰 Tech Stack
 
-## 🛠 Tech Stack
-
+### Backend Development
 <p>
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-
-  <!-- Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
-
-  <!-- Database & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" alt="Java, Spring Boot and Node.js" />
 </p>
 
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="HTML, CSS, JavaScript and React" />
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+</p>
+
+### Databases & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub and VS Code" />
+</p>
+
+## 🌟 Featured Project
+
+### 🛍️ Rural Craft — E-commerce Website
+
+A group project focused on developing an e-commerce website. I contributed to full-stack development as part of the team.
+
+- **Role:** Full Stack Development Contributor
+- **Repository:** [View Rural Craft on GitHub](https://github.com/Aathi125/Rural_Craft---E-commerce-Website)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pravinath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pravinath's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinath&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pravinath&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and connecting with fellow developers.
+
+- 💼 LinkedIn: [pravinath](https://www.linkedin.com/in/pravinath)
+- 📧 Email: [pravinath156@gmail.com](mailto:pravinath156@gmail.com)
+- 🐙 GitHub: [@Pravinath](https://github.com/Pravinath)
+
 ---
-## 👥 Group Projects
 
-- **Rural Craft – E-commerce Website**  
-  Contributor (Full Stack Development)  
-  🔗 https://github.com/Aathi125/Rural_Craft---E-commerce-Website
-
-
----
-
-## 📊 GitHub Stats
-
-![Pravinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pravinath&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinath&layout=compact&theme=tokyonight)
-
----
-
-## 🔗 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/pravinath)
-- 📧 Email: your-pravinath156@gmail.com
+<p align="center">
+  <i>💡 Learn continuously. Build thoughtfully. Improve every day.</i>
+</p>
