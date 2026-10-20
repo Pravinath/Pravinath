@@ -46,106 +46,133 @@ I'm an Information Technology undergraduate at SLIIT with an interest in softwar
 </table>
 
 🧰 Technical Skills
-Technologies and tools from my CV, grouped for quick scanning.
-
-💻 Programming Languages
-<p>
+<p align="center"><strong>Programming Languages</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,go,c,cpp,js,php" alt="Java, Python, Go, C, C++, JavaScript and PHP" />
 </p>
 
-🌐 Web Technologies
-<p>
+<p align="center"><strong>Frontend & Web Technologies</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,angular,html,css,bootstrap,tailwind" alt="Next.js, React, Angular, HTML, CSS, Bootstrap and Tailwind CSS" />
 </p>
 
-⚙️ Backend & Frameworks
-<p>
+<p align="center"><strong>Backend & Frameworks</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel" alt="Spring Boot, Node.js, Express.js and Laravel" />
-  <img src="https://img.shields.io/badge/.NET-Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Basic" />
-  <img src="https://img.shields.io/badge/RESTful-APIs-0E7490?style=for-the-badge" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/.NET-Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET fundamentals" />
+  <img src="https://img.shields.io/badge/RESTful-APIs-0EA5E9?style=for-the-badge" alt="RESTful APIs" />
 </p>
 
-📱 Mobile Development
-<p>
+<p align="center"><strong>Mobile Development</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Kotlin and Android Studio" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 </p>
 
-🗄️ Databases
-<p>
+<p align="center"><strong>Databases & Data Storage</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="PostgreSQL, MySQL, MongoDB and Firebase" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
-☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure" alt="Linux, Docker, Kubernetes, AWS and Azure" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Fundamentals-6D28D9?style=for-the-badge" alt="CI/CD Fundamentals" />
-</p>
-
-🛠️ Version Control, Tools & Security
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode" alt="Git, GitHub, GitLab, Postman and VS Code" />
+<p align="center"><strong>DevOps, Cloud & Developer Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,git,github,gitlab,postman,vscode" alt="Linux, Docker, Kubernetes, AWS, Azure, Git, GitHub, GitLab, Postman and VS Code" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Brevo_SMTP-0B996E?style=for-the-badge" alt="Brevo SMTP" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Fundamentals-6D28D9?style=for-the-badge" alt="CI/CD fundamentals" />
 </p>
 
-- 🔐 Security: JWT Authentication · Role-Based Access Control (RBAC) · Secure API Development
-- 🧰 Additional tools: Firebase · Android Studio · Postman · Playwright · Brevo SMTP
+<p align="center"><strong>Security Concepts</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens" alt="JWT authentication" />
+  <img src="https://img.shields.io/badge/RBAC-Role--Based_Access_Control-334155?style=for-the-badge" alt="Role-based access control" />
+  <img src="https://img.shields.io/badge/Secure-API_Development-0F766E?style=for-the-badge" alt="Secure API development" />
+</p>
+
 🚀 Featured Projects
 <div align="center">
 
-🛠️ Nimbus Ops
+01 · Nimbus Ops
 Smart Field Service & Complaint Resolution Platform
 
-An ongoing personal portfolio project for complaint handling and field-service workflows.
+Personal project · Ongoing
 
-Laravel MySQL Redis Docker REST APIs PHPUnit GitHub Actions
-- Complaint management, technician assignment, SLA tracking, inventory, and work-order resolution.
-- Docker Compose environment using Laravel, MySQL, Nginx, and Redis.
-- Focus on secure authentication, role-based access, automated tests, audit logging, and CI workflows.
+An API-first platform for complaint management, technician assignment, SLA tracking, inventory, and work-order resolution.
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+- Docker Compose environment with Laravel, MySQL, Nginx, and Redis.
+- Secure authentication, role-based authorization, automated tests, and audit logging.
+- API documentation and CI workflow improvements.
 ↗ View Repository
-🌿 Pantrix
-Household Pantry Management App
+02 · Wellbeing Event & Participation Management
+University Event Management System
 
-A mobile application concept for managing household food inventory and reducing food waste.
+SLIIT course project · April 2026
 
-Flutter Dart Firebase Authentication Cloud Firestore Riverpod
-- Track pantry items, quantities, expiry dates, and storage locations.
-- Household invitations, shared shopping lists, recipe-ingredient matching, and surplus-food listings.
-- Firebase authentication and Firestore security rules.
-↗ Find in My Repositories
-🏫 Smart Campus Operations Hub
-Resource Booking & Facility Management System
+A full-stack event-management module with registration, attendance tracking, and participation reporting.
+<p><strong>Tech stack:</strong> React.js · Vite · Tailwind CSS · Go (Gin) · GORM · PostgreSQL</p>
 
-Java Spring Boot React PostgreSQL REST APIs JWT NeonDB
-- Campus resource booking and facility management.
-- Booking conflict detection, slot suggestions, and waitlist handling.
-- Administrative booking workflows and email notifications.
-↗ Find in My Repositories
-🎉 Wellbeing Event & Participation Management
-SLIIT Course Project
-
-React Vite Tailwind CSS Go (Gin) GORM PostgreSQL
 - Event registration and automatic waitlist promotion.
 - QR-code attendance tracking and email notifications.
-- Participation analytics, PDF reports, dashboards, and downloadable QR tickets.
-↗ Find in My Repositories
-🛍️ Rural Craft Marketplace
-E-commerce Website · Group Project
+- Participation analytics, PDF reports, student dashboards, and downloadable QR tickets.
+↗ Find Project Repository
+03 · Smart Campus Operations Hub
+Resource Booking & Facility Management System
 
-MongoDB Express.js React Node.js
-- Contributed to a marketplace connecting rural Sri Lankan craftsmen with customers.
-- Project features include product management, orders, appointment booking, and payment integration.
-- Worked as a full-stack development contributor in a group project.
+SLIIT · May 2026
+
+A full-stack system for campus resource booking and facility management.
+<p><strong>Tech stack:</strong> Java · Spring Boot · React.js · PostgreSQL · REST APIs · JWT · NeonDB</p>
+
+- Booking conflict detection, slot suggestions, and automated waitlist handling.
+- Administrative booking workflows and email notifications.
+- JWT-based authentication.
+↗ Find Project Repository
+04 · Pantrix
+Household Pantry Management App
+
+SLIIT · September 2026
+
+A mobile application for tracking household food inventory and helping reduce food waste.
+<p><strong>Tech stack:</strong> Flutter · Dart · Firebase Authentication · Cloud Firestore · Riverpod</p>
+
+- Track food items, quantities, expiry dates, and storage locations.
+- Household invitations and shared shopping lists.
+- Recipe-ingredient matching and surplus-food listings.
+- Firebase Authentication and Firestore security rules.
+↗ Find Project Repository
+05 · Rural Craft Marketplace
+E-commerce Website
+
+SLIIT group project · November 2025
+
+A marketplace project connecting rural Sri Lankan craftsmen with customers.
+<p><strong>Tech stack:</strong> MongoDB · Express.js · React.js · Node.js · JavaScript · HTML · CSS</p>
+
+- Product management and order-handling workflows.
+- Appointment booking and payment integration.
+- Responsive frontend connected to backend services through REST APIs.
 ↗ View Repository
-🌉 SkillBridge
-A project repository featured on my GitHub profile. See the repository for its current implementation and technology details.
+06 · SkillBridge
+Project Repository
+
+Explore the repository for its current implementation and technology details.
 
 ↗ View Repository
 </div>
 
-Project links to verify: Pantrix, Smart Campus Operations Hub, and Wellbeing Event Management currently link to the repository list because their exact repository URLs have not been confirmed. Replace those with direct links when verified. Add any additional CV projects that are missing from this section.
+<p align="center">
+  <a href="https://github.com/Pravinath?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-All%20Repositories-0891B2?style=for-the-badge&logo=github" alt="Explore all repositories" />
+  </a>
+</p>
 
 📊 GitHub Analytics
 <div align="center">
