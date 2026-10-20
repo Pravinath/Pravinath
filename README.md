@@ -1,20 +1,28 @@
 <div align="center">
 
-<!-- Animated dark-cinematic header -->
-<!-- Animated hero: layered waves + typing headline -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=PRAVINATH%20THURAIRAJASINGAM&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI&descSize=15&descAlignY=58&animation=fadeIn&color=0:020617,25:172554,55:312E81,80:0F766E,100:020617" alt="Animated gradient wave header — Pravinath Thurairajasingam" />
+<!-- Cinematic animated hero -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=PRAVINATH%20THURAIRAJASINGAM&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI&descSize=15&descAlignY=57&animation=fadeIn&color=0:020617,20:172554,45:312E81,70:0F766E,100:020617" alt="Animated gradient hero header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=650&color=67E8F9&center=true&vCenter=true&width=900&height=55&lines=Building+useful+software%2C+one+iteration+at+a+time;Backend+Engineering+%7C+Secure+APIs+%7C+Full-Stack;Learn+continuously.+Build+thoughtfully.+Ship+reliably." alt="Animated developer tagline" />
+<!-- Animated role carousel -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=600&color=67E8F9&center=true&vCenter=true&width=900&height=55&lines=Backend+Engineering+%7C+Secure+APIs;Full-Stack+Development+%7C+Clean+Architecture;AI+%26+Machine+Learning+%7C+Continuous+Learning;Build+thoughtfully.+Learn+continuously.+Ship+reliably." alt="Animated developer roles"/>
 
-
+<!-- Quick profile links -->
 <p>
-  <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-0F766E?style=for-the-badge&logo=github" alt="Open to collaboration"/>
-  &nbsp;
-  <a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/EXPLORE-MY_GITHUB-1D4ED8?style=for-the-badge&logo=github" alt="Explore my GitHub"/></a>
+  <a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
+  <a href="mailto:pravinath156@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/pravinath"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+<!-- Moving-style skill strip -->
+<img src="https://skillicons.dev/icons?i=java,python,go,react,spring,nodejs,docker,postgres&perline=8" alt="Core technology stack"/>
+
+<img src="https://komarev.com/ghpvc/?username=Pravinath&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
+
+<hr/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:0F766E,50:2563EB,100:7C3AED" width="72%" alt="Teal blue violet section divider"/></div>
 
 <hr/>
 
