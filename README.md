@@ -1,254 +1,131 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:312e81,100:0f766e&text=Pravinath%20Thurairajasingam&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=59&descSize=17&animation=fadeIn" alt="Pravinath Thurairajasingam — AI, Machine Learning and Software Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:2563EB,100:06B6D4&height=220&section=header&text=Pravinath%20Thurairajasingam&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Backend%20Systems&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Animated profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1300&color=2DD4BF&center=true&vCenter=true&width=820&lines=Building+useful+AI-powered+applications;Exploring+RAG%2C+LLMs+%26+AI+Agents;Engineering+reliable+full-stack+systems;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Animated tagline" />
+<a href="https://github.com/IT24102884"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/pravinath"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:pravinath156@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
+<img src="https://komarev.com/ghpvc/?username=IT24102884&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/pravinath"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<a href="mailto:pravinath156@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+👋 About Me
+I'm Pravinath Thurairajasingam, an Information Technology undergraduate at Sri Lanka Institute of Information Technology (SLIIT), interested in building reliable, secure, and practical software.
+- 🎓 BSc (Hons) in Information Technology — SLIIT
+- 💻 Focused on full-stack development, backend engineering, REST APIs, and secure application design
+- 🧪 Interested in automated testing, clean architecture, and CI/CD workflows
+- 🌱 Currently developing Nimbus Ops, an API-first field-service and complaint-resolution platform
+- 🤝 Open to learning, collaborating, and contributing as a Software Engineering Intern
+🧰 Technology Stack
+Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,go,c,cpp,js,php" alt="Java, Python, Go, C, C++, JavaScript and PHP"/>
+</p>
 
-👨‍💻 About Me
-I'm an Information Technology undergraduate specializing in Artificial Intelligence, interested in building practical AI systems and full-stack applications.
+Frontend & Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap,reactnative" alt="React, Next.js, Angular, HTML, CSS, Tailwind, Bootstrap and React Native"/>
+</p>
 
-I enjoy working across the complete development lifecycle — from machine learning models and RAG pipelines to backend APIs, databases, and frontend applications.
+Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel,dotnet" alt="Spring Boot, Node.js, Express, Laravel and .NET"/>
+</p>
 
-My current interests include Generative AI, agentic workflows, computer vision, deep learning, and scalable software systems.
-</td>
-<td width="38%" valign="top">
+Databases, DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,docker,kubernetes,aws,azure,linux,git,github,gitlab,postman,vscode" alt="Databases, cloud, DevOps and developer tools"/>
+</p>
 
-⚡ What I Do
-🤖 Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI & RAG
-- AI Agents
-💻 Software Engineering
-- Backend & REST APIs
-- Full-Stack Applications
-- Database Design
-- Authentication
-- System Architecture
-</td>
-</tr>
-</table>
-
-🧠 Technical Skills
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🤖 Core AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python and PyTorch" />
-
-Machine Learning · Deep Learning · Computer Vision · Transfer Learning
-</td>
-<td width="50%" valign="top">
-
-🧩 Generative AI & Agentic AI
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
-
-LLMs · Embeddings · Vector Search · AI Agents
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-💻 Software Development
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,fastapi" alt="Java, Spring, React, Node.js, Express and FastAPI" />
-
-REST APIs · Backend Development · Full-Stack Development
-</td>
-<td width="50%" valign="top">
-
-🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="MySQL, MongoDB and PostgreSQL" />
-
-MySQL · MongoDB · JPA · Hibernate
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" alt="Git, GitHub, Jupyter and VS Code" />
-
-Git · GitHub · Jupyter · Google Colab · VS Code
-</td>
-</tr>
-</table>
-
+Also familiar with: RESTful APIs · JWT Authentication · Role-Based Access Control · PostgreSQL · SQL Server · Redis · Laravel Sanctum · PHPUnit · Playwright · GitHub Actions · CI/CD fundamentals
 🚀 Featured Projects
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-<h3>🇱🇰 Sri Lanka Government RAG Assistant</h3>
+🛠️ Nimbus Ops
+Smart Field Service & Complaint Resolution Platform
+<sub>Personal project · In progress</sub>
 
-An AI-powered Retrieval-Augmented Generation (RAG) system for querying Sri Lankan government services using information retrieved from official government documents.
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=flat-square" alt="LLMs" />
-<img src="https://img.shields.io/badge/Embeddings-0F766E?style=flat-square" alt="Embeddings" />
-<img src="https://img.shields.io/badge/Vector_Search-475569?style=flat-square" alt="Vector Search" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-
-
-
-
-<a href="https://github.com/Pravinath/Sri-Lanka-gov-rag-assistant"><img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github" alt="View Sri Lanka Government RAG Assistant" /></a>
+An API-first platform for managing complaints and field-service workflows.
+- Complaint management and technician assignment
+- SLA tracking, inventory, and work-order resolution
+- Secure authentication, role-based authorization, and audit logging
+- Docker Compose environment and GitHub Actions CI pipeline
+Stack: Laravel · MySQL · Redis · Docker · Nginx · PHPUnit
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-<h3>🐾 Animal Image Classification System</h3>
+🌿 Wellbeing Event & Participation Management
+University course project · April 2026
 
-
-A full-stack computer vision application using EfficientNet-B2 transfer learning with a PyTorch model served through FastAPI and integrated with React.
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/EfficientNet--B2-6D28D9?style=flat-square" alt="EfficientNet-B2" />
-<img src="https://img.shields.io/badge/Transfer_Learning-0F766E?style=flat-square" alt="Transfer Learning" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-
-
-
-
-<a href="https://github.com/Pravinath/animal-image-classification"><img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github" alt="View Animal Image Classification System" /></a>
+A full-stack event module for a university wellbeing platform.
+- Event registration and automatic waitlist promotion
+- QR-code attendance and downloadable tickets
+- Email notifications and student dashboards
+- Participation analytics, reports, and PDF export
+Stack: React · Vite · Tailwind CSS · Go (Gin) · GORM · PostgreSQL
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-<h3>🚜 JCB Equipment Rental & Management System</h3>
+🏫 Smart Campus Operations Hub
+Resource Booking & Facility Management · May 2026
 
-
-A full-stack equipment rental and management platform built with Java and Spring Boot.
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" alt="JPA" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
-
-
-
-
-<a href="https://github.com/Pravinath/Jcb-Management"><img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github" alt="View JCB Equipment Rental and Management System" /></a>
+A campus resource-booking system designed to coordinate facilities and reservations.
+- Booking conflict detection and suggested time slots
+- Automated waitlist handling
+- Admin approval, rejection, and cancellation workflows
+- JWT authentication, REST APIs, and email notifications
+Stack: Java · Spring Boot · React · PostgreSQL · JWT · NeonDB
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-<h3>🖥️ Hardware Management System</h3>
+🧵 Rural Craft Marketplace
+Connect Local Manufacturers & Craftsmen · November 2025
 
-
-A full-stack hardware management platform for inventory, suppliers, customers, sales, promotions, and reporting.
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" alt="REST APIs" />
-
-
-
-
-<a href="https://github.com/Pravinath/Hardware-management-system"><img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github" alt="View Hardware Management System" /></a>
+A MERN-stack marketplace connecting Sri Lankan craftspeople with customers.
+- Role-based authentication and product management
+- Order handling and appointment booking
+- Secure payment integration
+- Responsive interface backed by REST APIs
+Stack: MongoDB · Express.js · React · Node.js
 </td>
 </tr>
 </table>
+
+📊 GitHub Activity
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IT24102884&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24102884&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=IT24102884&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IT24102884&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+
+</div>
 
 🎯 Current Focus
-<table>
-<tr>
-<td align="center" width="33%">
-
-🤖 Generative AI
-AI Agents · LLM Applications
-</td>
-<td align="center" width="33%">
-
-🧠 Retrieval Systems
-RAG · LangGraph
-</td>
-<td align="center" width="33%">
-
-👁️ Computer Vision
-Deep Learning · Transfer Learning
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-💻 Backend Engineering
-APIs · Databases
-</td>
-<td align="center" width="33%">
-
-🧱 Full-Stack Development
-Frontend · Backend Integration
-</td>
-<td align="center" width="33%">
-
-⚙️ Software Engineering
-Architecture · Quality
-</td>
-</tr>
-</table>
-
-📊 GitHub Analytics
+- Building maintainable backend services and RESTful APIs
+- Improving application security with authentication and role-based authorization
+- Writing automated tests and strengthening CI/CD workflows
+- Developing full-stack applications with modern frontend and backend tools
+- Improving software design, debugging, and problem-solving skills
+🤝 Let's Connect
 <div align="center">
 
-<a href="https://github.com/Pravinath">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Pravinath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pravinath's GitHub statistics" />
-</a>
-<a href="https://github.com/Pravinath">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinath&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
-</a>
+I'm happy to connect with developers, collaborate on projects, and explore software engineering internship opportunities.
+
+<a href="mailto:pravinath156@gmail.com"><img src="https://img.shields.io/badge/Email-pravinath156%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pravinath"/></a>
+<a href="https://www.linkedin.com/in/pravinath"><img src="https://img.shields.io/badge/LinkedIn-Pravinath-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/></a>
+<a href="https://github.com/IT24102884"><img src="https://img.shields.io/badge/GitHub-IT24102884-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
 
 
 
-
-<img width="72%" src="https://streak-stats.demolab.com?user=Pravinath&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-🐍 Contribution Activity
-<div align="center">
-
-<!-- Enable the GitHub Actions snake workflow in this profile repository to publish the SVG to the output branch. -->
-<img src="https://raw.githubusercontent.com/Pravinath/Pravinath/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
-
-🌱 Currently Exploring
-<div align="center">
-
-<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Advanced_RAG-0F766E?style=for-the-badge" alt="Advanced RAG" />
-<img src="https://img.shields.io/badge/LLM_Applications-475569?style=for-the-badge" alt="LLM Applications" />
-<img src="https://img.shields.io/badge/Computer_Vision-DB2777?style=for-the-badge" alt="Computer Vision" />
-<img src="https://img.shields.io/badge/System_Design-1D4ED8?style=for-the-badge" alt="System Design" />
-
-</div>
-
-📫 Connect With Me
-<div align="center">
-
-<a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/GitHub-PRAVINATH-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-<a href="mailto:pravinath156@gmail.com"><img src="https://img.shields.io/badge/GMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/pravinath"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=2DD4BF&center=true&vCenter=true&width=700&lines=Build+with+purpose.;Learn+with+curiosity.;Create+things+that+matter." alt="Animated closing quote" />
-
-Build · Learn · Experiment · Improve
+Build thoughtfully · Learn continuously · Ship reliably
 </div>
