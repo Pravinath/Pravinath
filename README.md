@@ -10,7 +10,6 @@
 <p>
   <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-0F766E?style=for-the-badge&logo=github" alt="Open to collaboration"/>
   &nbsp;
-  <a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/EXPLORE-MY_GITHUB-1D4ED8?style=for-the-badge&logo=github" alt="Explore my GitHub"/></a>
 </p>
 </div>
 
