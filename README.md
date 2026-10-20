@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=650&color=67E8F9&center=true&vCenter=true&width=900&height=55&lines=Building+useful+software%2C+one+iteration+at+a+time;Backend+Engineering+%7C+Secure+APIs+%7C+Full-Stack;Learn+continuously.+Build+thoughtfully.+Ship+reliably." alt="Animated developer tagline" />
 
-<img src="https://skillicons.dev/icons?i=java,python,go,react,spring,nodejs,docker,postgres&perline=8" alt="Technology highlights" />
 
 <p>
   <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-0F766E?style=for-the-badge&logo=github" alt="Open to collaboration"/>
