@@ -1,7 +1,18 @@
 <div align="center">
 
 <!-- Animated dark-cinematic header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:312e81,70:0f766e,100:020617&text=Pravinath%20Thurairajasingam&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=62&descSize=16&animation=twinkling&stroke=2DD4BF&strokeWidth=1" alt="Animated header — Pravinath Thurairajasingam" />
+<!-- Animated hero: layered waves + typing headline -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=PRAVINATH%20THURAIRAJASINGAM&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI&descSize=15&descAlignY=58&animation=fadeIn&color=0:020617,25:172554,55:312E81,80:0F766E,100:020617" alt="Animated gradient wave header — Pravinath Thurairajasingam" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=650&color=67E8F9&center=true&vCenter=true&width=900&height=55&lines=Building+useful+software%2C+one+iteration+at+a+time;Backend+Engineering+%7C+Secure+APIs+%7C+Full-Stack;Learn+continuously.+Build+thoughtfully.+Ship+reliably." alt="Animated developer tagline" />
+
+<img src="https://skillicons.dev/icons?i=java,python,go,react,spring,nodejs,docker,postgres&perline=8" alt="Technology highlights" />
+
+<p>
+  <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-0F766E?style=for-the-badge&logo=github" alt="Open to collaboration"/>
+  &nbsp;
+  <a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/EXPLORE-MY_GITHUB-1D4ED8?style=for-the-badge&logo=github" alt="Explore my GitHub"/></a>
+</p>
 
 <!-- Typing quotes shown directly under the name banner -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3600&pause=900&color=5EEAD4&center=true&vCenter=true&width=950&height=90&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Clean+code+is+not+written+by+following+rules.+It+is+written+by+thinking.%22;%22Great+software+is+built+one+thoughtful+iteration+at+a+time.%22;%22Build+systems+that+are+simple%2C+reliable%2C+and+useful.%22;%22Keep+learning.+Keep+shipping.+Keep+improving.%22" alt="Animated software engineering quotes" />
