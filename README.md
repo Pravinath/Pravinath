@@ -6,10 +6,6 @@
 <!-- Typing quotes shown directly under the name banner -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3600&pause=900&color=5EEAD4&center=true&vCenter=true&width=950&height=90&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Clean+code+is+not+written+by+following+rules.+It+is+written+by+thinking.%22;%22Great+software+is+built+one+thoughtful+iteration+at+a+time.%22;%22Build+systems+that+are+simple%2C+reliable%2C+and+useful.%22;%22Keep+learning.+Keep+shipping.+Keep+improving.%22" alt="Animated software engineering quotes" />
 
-
-<a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/pravinath"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-<a href="mailto:pravinath156@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <hr/>
