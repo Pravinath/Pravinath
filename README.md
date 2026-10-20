@@ -81,12 +81,12 @@ I'm an Information Technology undergraduate at SLIIT interested in software engi
 </p>
 
 🚀 Featured Projects
-1. Nimbus Ops — Smart Field Service & Complaint Resolution Platform
-<sub>Personal project · Ongoing</sub>
+<div align="center">
+
+☁️ Nimbus Ops — Smart Field Service & Complaint Resolution Platform
+Personal Project · Ongoing
 
 An API-first platform for complaint management, technician assignment, SLA tracking, inventory, and work-order resolution.
-
-Technologies
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -95,60 +95,106 @@ Technologies
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-- Developing a Docker Compose environment with Laravel, MySQL, Nginx, and Redis.
-- Working on secure authentication, role-based authorization, automated tests, and audit logging.
-- Improving API documentation and CI workflows.
-↗ View Nimbus Ops repository
-2. Wellbeing Event & Participation Management System
-<sub>SLIIT course project · April 2026</sub>
+<a href="https://github.com/Pravinath/NimbusOps">
+  <img src="https://img.shields.io/badge/◉%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Nimbus Ops project" />
+</a>
+
+</div>
+
+<div align="center">
+
+🎟️ Wellbeing Event & Participation Management System
+SLIIT Course Project · April 2026
 
 A full-stack event-management module for event registration, attendance tracking, and participation reporting.
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-Technologies: React.js · Vite · Tailwind CSS · Go (Gin) · GORM · PostgreSQL
-- Event registration and automatic waitlist promotion.
-- QR-code attendance tracking and email notifications.
-- Participation analytics, PDF reports, student dashboards, and downloadable QR tickets.
-↗ Find the project in my repositories
-3. Smart Campus Operations Hub
-<sub>Resource Booking & Facility Management System · SLIIT · May 2026</sub>
+<a href="https://github.com/Pravinath?tab=repositories">
+  <img src="https://img.shields.io/badge/◉%20VIEW%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Find event management project" />
+</a>
+
+</div>
+
+<div align="center">
+
+🏫 Smart Campus Operations Hub
+Resource Booking & Facility Management System · SLIIT · May 2026
 
 A full-stack system for campus resource booking and facility management.
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
 
-Technologies: Java · Spring Boot · React.js · PostgreSQL · REST APIs · JWT · NeonDB
-- Booking conflict detection, slot suggestions, and automated waitlist handling.
-- Administrative booking workflows and email notifications.
-- JWT-based authentication.
-↗ Find the project in my repositories
-4. Pantrix — Household Pantry Management App
-<sub>SLIIT project · September 2026</sub>
+<a href="https://github.com/Pravinath?tab=repositories">
+  <img src="https://img.shields.io/badge/◉%20VIEW%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Find Smart Campus project" />
+</a>
+
+</div>
+
+<div align="center">
+
+🥫 Pantrix — Household Pantry Management App
+SLIIT Project · September 2026
 
 A mobile application for tracking household food inventory and helping reduce food waste.
-
-Technologies: Flutter · Dart · Firebase Authentication · Cloud Firestore · Riverpod
-- Track food items, quantities, expiry dates, and storage locations.
-- Household invitations and shared shopping lists.
-- Recipe-ingredient matching and surplus-food listings.
-- Firebase Authentication and Firestore security rules.
-↗ Find the project in my repositories
-5. Rural Craft Marketplace
-<sub>E-commerce website · SLIIT group project · November 2025</sub>
-
-A marketplace project connecting rural Sri Lankan craftsmen with customers.
-
-Technologies: MongoDB · Express.js · React.js · Node.js · JavaScript · HTML · CSS
-- Product management and order-handling workflows.
-- Appointment booking and payment integration.
-- Responsive frontend connected to backend services through REST APIs.
-↗ View Rural Craft repository
-6. SkillBridge
-A project repository featured on my GitHub profile. Visit the repository for its current implementation and technology details.
-
-↗ View SkillBridge repository
-<p align="center">
-  <a href="https://github.com/Pravinath?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-0891B2?style=for-the-badge&logo=github" alt="Explore all repositories" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Cloud Firestore" />
 </p>
+
+<a href="https://github.com/Pravinath?tab=repositories">
+  <img src="https://img.shields.io/badge/◉%20VIEW%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Find Pantrix project" />
+</a>
+
+</div>
+
+<div align="center">
+
+🧵 Rural Craft Marketplace
+E-commerce Website · SLIIT Group Project · November 2025
+
+A marketplace connecting rural Sri Lankan craftsmen with customers.
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<a href="https://github.com/Aathi125/Rural_Craft---E-commerce-Website">
+  <img src="https://img.shields.io/badge/◉%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Rural Craft project" />
+</a>
+
+</div>
+
+<div align="center">
+
+🌉 SkillBridge
+Explore my SkillBridge project repository for its current features, implementation, and technology stack.
+<a href="https://github.com/Pravinath/skillbridge">
+  <img src="https://img.shields.io/badge/◉%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SkillBridge project" />
+</a>
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/Pravinath?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
+</div>
 
 📊 GitHub Analytics
 <div align="center">
@@ -166,6 +212,18 @@ A project repository featured on my GitHub profile. Visit the repository for its
 
 Full-Stack Development · Backend Engineering · Secure APIs · Automated Testing · Docker · CI/CD
 </div>
+
+📊 GitHub Analytics
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pravinath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pravinath's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinath&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+
+
+<img src="https://streak-stats.demolab.com?user=Pravinath&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
 
 🤝 Connect With Me
 <div align="center">
