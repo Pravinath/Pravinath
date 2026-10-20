@@ -46,8 +46,8 @@ I'm an Information Technology undergraduate at SLIIT with an interest in softwar
 </table>
 
 🧰 Technical Skills
-<p align="center"><strong>Programming Languages</strong></p>
-<p align="center">
+<strong>Programming Languages</strong></p>
+<p>
   <img src="https://skillicons.dev/icons?i=java,python,go,c,cpp,js,php" alt="Java, Python, Go, C, C++, JavaScript and PHP" />
 </p>
 
