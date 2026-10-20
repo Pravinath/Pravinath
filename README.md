@@ -10,15 +10,9 @@
 <p>
   <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-0F766E?style=for-the-badge&logo=github" alt="Open to collaboration"/>
   &nbsp;
+  <a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/EXPLORE-MY_GITHUB-1D4ED8?style=for-the-badge&logo=github" alt="Explore my GitHub"/></a>
 </p>
 </div>
-
-
-<hr/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:0F766E,50:2563EB,100:7C3AED" width="72%" alt="Teal blue violet section divider"/></div>
-
-<hr/>
 
 <h1>👋 ABOUT ME</h1>
 
