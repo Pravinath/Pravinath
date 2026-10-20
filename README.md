@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="NeonDB"/>
 </p>
-<p><a href="https://github.com/Pravinath?tab=repositories"><img src="https://img.shields.io/badge/↗_FIND_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Find Smart Campus Hub repository in profile repositories"/></a></p>
+<p><a href="[https://github.com/Pravinath?tab=repositories](https://github.com/AaishaShahani2001/it3030-paf-2026-smart-campus-group_WE_311_2.1)"><img src="https://img.shields.io/badge/↗_FIND_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Find Smart Campus Hub repository in profile repositories"/></a></p>
 
 <hr/>
 
