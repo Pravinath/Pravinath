@@ -12,8 +12,6 @@
   &nbsp;
   <a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/EXPLORE-MY_GITHUB-1D4ED8?style=for-the-badge&logo=github" alt="Explore my GitHub"/></a>
 </p>
-
-
 </div>
 
 
