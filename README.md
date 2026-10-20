@@ -1,4 +1,5 @@
-<<h1 align="center">Pravinath Thurairajasingam</h1>
+<div
+<h1 align="center">Pravinath Thurairajasingam</h1>
 
 <p align="center">
   <strong>IT Undergraduate at SLIIT · Software Engineering · Full-Stack & Backend Development</strong>
@@ -8,15 +9,15 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:0b1020,45:123c69,100:00c2d1&text=PRAVINATH&fontColor=ffffff&fontSize=54&fontAlignY=42&desc=Building%20Practical%20Software%20Solutions&descAlignY=66&descSize=17" width="100%" alt="Pravinath profile banner" />
 </p>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+practical+software+solutions;Backend+systems+%7C+Full-stack+applications;Learn+continuously.+Build+thoughtfully." alt="Typing tagline" />
+
+<p>
   <a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/GitHub-Pravinath-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/pravinath"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:pravinath156@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=💻%20Code%20with%20purpose.;🚀%20Build%20with%20passion.;🌱%20Never%20stop%20learning.;✨%20Turn%20ideas%20into%20reality." alt="Animated quote: Code with purpose, build with passion, never stop learning" />
-</p>
+</div>
 
 👨‍💻 About Me
 I'm an Information Technology undergraduate at SLIIT with an interest in software engineering, full-stack development, and backend systems. I enjoy building practical applications, designing APIs, working with databases, and learning modern development practices through academic and personal projects.
