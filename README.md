@@ -44,64 +44,96 @@
 
 <h1>🚀 FEATURED PROJECTS</h1>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>🛠️ 01 · Nimbus Ops</h2>
-      <p><strong>Smart Field Service &amp; Complaint Resolution Platform</strong></p>
-      <p><em>Personal project · In progress</em></p>
-      <p>API-first platform for complaint management and field-service operations.</p>
-      <ul>
-        <li>Complaint handling, technician assignment, and SLA tracking</li>
-        <li>Inventory and work-order workflows</li>
-        <li>Secure authentication, role-based authorization, and audit logging</li>
-        <li>Docker Compose and GitHub Actions CI pipeline</li>
-      </ul>
-      <p><strong>Stack:</strong><br/>Laravel · MySQL · Redis · Docker · Nginx · PHPUnit</p>
-    </td>
-    <td width="50%" valign="top">
-      <h2>🌿 02 · Wellbeing Events</h2>
-      <p><strong>Event &amp; Participation Management System</strong></p>
-      <p><em>SLIIT course project · April 2026</em></p>
-      <p>Event-management module for a university wellbeing platform.</p>
-      <ul>
-        <li>Event registration and automatic waitlist promotion</li>
-        <li>QR attendance and downloadable tickets</li>
-        <li>Email notifications and student dashboards</li>
-        <li>Analytics, reports, and PDF export</li>
-      </ul>
-      <p><strong>Stack:</strong><br/>React · Vite · Tailwind CSS · Go (Gin) · GORM · PostgreSQL</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>🏫 03 · Smart Campus Hub</h2>
-      <p><strong>Resource Booking &amp; Facility Management</strong></p>
-      <p><em>SLIIT course project · May 2026</em></p>
-      <p>Campus resource-booking system with reservation and facility workflows.</p>
-      <ul>
-        <li>Booking conflict detection and suggested time slots</li>
-        <li>Automated waitlist handling</li>
-        <li>Admin approval, rejection, and cancellation</li>
-        <li>JWT authentication, REST APIs, and email notifications</li>
-      </ul>
-      <p><strong>Stack:</strong><br/>Java · Spring Boot · React · PostgreSQL · JWT · NeonDB</p>
-    </td>
-    <td width="50%" valign="top">
-      <h2>🧵 04 · Rural Craft Marketplace</h2>
-      <p><strong>Connecting Local Manufacturers &amp; Craftsmen</strong></p>
-      <p><em>SLIIT course project · November 2025</em></p>
-      <p>MERN-stack marketplace connecting Sri Lankan craftspeople with customers.</p>
-      <ul>
-        <li>Role-based authentication and product management</li>
-        <li>Order handling and appointment booking</li>
-        <li>Secure payment integration</li>
-        <li>Responsive frontend and RESTful APIs</li>
-      </ul>
-      <p><strong>Stack:</strong><br/>MongoDB · Express.js · React · Node.js</p>
-    </td>
-  </tr>
-</table>
+<!-- PROJECT 01 -->
+<h2>🛠️ 01 · Nimbus Ops</h2>
+<p><strong>Smart Field Service &amp; Complaint Resolution Platform</strong> &nbsp; <em>Personal project · In progress</em></p>
+<p>API-first platform for complaint management and field-service operations.</p>
+<ul>
+  <li>Complaint handling, technician assignment, and SLA tracking</li>
+  <li>Inventory and work-order workflows</li>
+  <li>Secure authentication, role-based authorization, and audit logging</li>
+  <li>Docker Compose environment and GitHub Actions CI pipeline</li>
+</ul>
+<p><strong>TECH STACK</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
+</p>
+<p><a href="https://github.com/Pravinath/NimbusOps"><img src="https://img.shields.io/badge/↗_VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View Nimbus Ops repository"/></a></p>
+
+<hr/>
+
+<!-- PROJECT 02 -->
+<h2>🌿 02 · Wellbeing Events</h2>
+<p><strong>Event &amp; Participation Management System</strong> &nbsp; <em>SLIIT course project · April 2026</em></p>
+<p>Event-management module for a university wellbeing platform.</p>
+<ul>
+  <li>Event registration and automatic waitlist promotion</li>
+  <li>QR attendance and downloadable tickets</li>
+  <li>Email notifications and student dashboards</li>
+  <li>Analytics, reports, and PDF export</li>
+</ul>
+<p><strong>TECH STACK</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white" alt="Gin"/>
+  <img src="https://img.shields.io/badge/GORM-1F6FEB?style=for-the-badge&logo=go&logoColor=white" alt="GORM"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+<p><a href="https://github.com/Pravinath?tab=repositories"><img src="https://img.shields.io/badge/↗_FIND_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Find Wellbeing Events repository in profile repositories"/></a></p>
+
+<hr/>
+
+<!-- PROJECT 03 -->
+<h2>🏫 03 · Smart Campus Hub</h2>
+<p><strong>Resource Booking &amp; Facility Management System</strong> &nbsp; <em>SLIIT course project · May 2026</em></p>
+<p>Campus resource-booking system with reservation and facility workflows.</p>
+<ul>
+  <li>Booking conflict detection and suggested time slots</li>
+  <li>Automated waitlist handling</li>
+  <li>Admin approval, rejection, and cancellation</li>
+  <li>JWT authentication, REST APIs, and email notifications</li>
+</ul>
+<p><strong>TECH STACK</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="NeonDB"/>
+</p>
+<p><a href="https://github.com/Pravinath?tab=repositories"><img src="https://img.shields.io/badge/↗_FIND_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Find Smart Campus Hub repository in profile repositories"/></a></p>
+
+<hr/>
+
+<!-- PROJECT 04 -->
+<h2>🧵 04 · Rural Craft Marketplace</h2>
+<p><strong>Connecting Local Manufacturers &amp; Craftsmen</strong> &nbsp; <em>SLIIT group project · November 2025</em></p>
+<p>MERN-stack marketplace connecting Sri Lankan craftspeople with customers.</p>
+<ul>
+  <li>Role-based authentication and product management</li>
+  <li>Order handling and appointment booking</li>
+  <li>Payment integration</li>
+  <li>Responsive frontend and RESTful APIs</li>
+</ul>
+<p><strong>TECH STACK</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+<p><a href="https://github.com/Aathi125/Rural_Craft---E-commerce-Website"><img src="https://img.shields.io/badge/↗_VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View Rural Craft Marketplace repository"/></a></p>
 
 <hr/>
 
