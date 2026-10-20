@@ -118,34 +118,58 @@
 
 <h1>🎯 CURRENT FOCUS</h1>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🧱 Backend Engineering</h3>
-      <p>Maintainable services and REST APIs</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🔐 Secure APIs</h3>
-      <p>Authentication and role-based access</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧪 Quality &amp; Delivery</h3>
-      <p>Automated tests and CI/CD workflows</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Advanced_RAG-0F766E?style=for-the-badge" alt="Advanced RAG" />
+<img src="https://img.shields.io/badge/LLM_Applications-475569?style=for-the-badge" alt="LLM Applications" />
+<img src="https://img.shields.io/badge/Computer_Vision-DB2777?style=for-the-badge" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/System_Design-1D4ED8?style=for-the-badge" alt="System Design" />
+
+</div>
 
 <hr/>
 
 <h1>🤝 LET'S CONNECT</h1>
 
 <div align="center">
-  <p>Open to connecting with developers, collaborating on projects, and exploring <strong>Software Engineering Internship</strong> opportunities.</p>
-  <a href="https://github.com/Pravinath"><img src="https://img.shields.io/badge/GitHub-PRAVINATH-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-<a href="mailto:pravinath156@gmail.com"><img src="https://img.shields.io/badge/GMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/pravinath"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <br/><br/>
-  <strong>BUILD THOUGHTFULLY · LEARN CONTINUOUSLY · SHIP RELIABLY</strong>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4" width="100%" alt="Blue gradient footer"/>
+
+<p>
+  Open to connecting with developers, collaborating on projects, and exploring
+  <strong>Software Engineering Internship</strong> opportunities.
+</p>
+
+
+<a href="https://github.com/Pravinath">
+  <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
+</a>
+&nbsp;
+<a href="mailto:pravinath156@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pravinath">
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+
+
+
+<!-- Animated software-engineering quote carousel -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=5EEAD4&center=true&vCenter=true&width=950&height=65&lines=%22Great+software+starts+with+curiosity.%22;%22Design+for+clarity.+Build+for+people.%22;%22Make+it+work%2C+make+it+right%2C+make+it+better.%22;%22Every+bug+is+a+chance+to+understand+more.%22;%22Build+thoughtfully.+Learn+continuously.+Ship+reliably.%22"
+  alt="Animated software engineering quotes"
+/>
+
+<strong>BUILD THOUGHTFULLY  ·  LEARN CONTINUOUSLY  ·  SHIP RELIABLY</strong>
+
+
+
+<!-- Animated bottom wave -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F766E,45:1D4ED8,75:312E81,100:0B1120&animation=twinkling"
+  alt="Animated teal, blue and violet footer wave"
+/>
 </div>
