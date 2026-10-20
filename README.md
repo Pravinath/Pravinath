@@ -81,83 +81,69 @@ I'm an Information Technology undergraduate at SLIIT interested in software engi
 </p>
 
 🚀 Featured Projects
-<div align="center">
-
-01 · Nimbus Ops
-Smart Field Service & Complaint Resolution Platform
-
-Personal project · Ongoing
+1. Nimbus Ops — Smart Field Service & Complaint Resolution Platform
+<sub>Personal project · Ongoing</sub>
 
 An API-first platform for complaint management, technician assignment, SLA tracking, inventory, and work-order resolution.
+
+Technologies
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-- Docker Compose environment with Laravel, MySQL, Nginx, and Redis.
-- Secure authentication, role-based authorization, automated tests, and audit logging.
-- API documentation and CI workflow improvements.
-↗ View Repository
-02 · Wellbeing Event & Participation Management
-University Event Management System
+- Developing a Docker Compose environment with Laravel, MySQL, Nginx, and Redis.
+- Working on secure authentication, role-based authorization, automated tests, and audit logging.
+- Improving API documentation and CI workflows.
+↗ View Nimbus Ops repository
+2. Wellbeing Event & Participation Management System
+<sub>SLIIT course project · April 2026</sub>
 
-SLIIT course project · April 2026
+A full-stack event-management module for event registration, attendance tracking, and participation reporting.
 
-A full-stack event-management module with registration, attendance tracking, and participation reporting.
-<p><strong>Tech stack:</strong> React.js · Vite · Tailwind CSS · Go (Gin) · GORM · PostgreSQL</p>
-
+Technologies: React.js · Vite · Tailwind CSS · Go (Gin) · GORM · PostgreSQL
 - Event registration and automatic waitlist promotion.
 - QR-code attendance tracking and email notifications.
 - Participation analytics, PDF reports, student dashboards, and downloadable QR tickets.
-↗ Find Project Repository
-03 · Smart Campus Operations Hub
-Resource Booking & Facility Management System
-
-SLIIT · May 2026
+↗ Find the project in my repositories
+3. Smart Campus Operations Hub
+<sub>Resource Booking & Facility Management System · SLIIT · May 2026</sub>
 
 A full-stack system for campus resource booking and facility management.
-<p><strong>Tech stack:</strong> Java · Spring Boot · React.js · PostgreSQL · REST APIs · JWT · NeonDB</p>
 
+Technologies: Java · Spring Boot · React.js · PostgreSQL · REST APIs · JWT · NeonDB
 - Booking conflict detection, slot suggestions, and automated waitlist handling.
 - Administrative booking workflows and email notifications.
 - JWT-based authentication.
-↗ Find Project Repository
-04 · Pantrix
-Household Pantry Management App
-
-SLIIT · September 2026
+↗ Find the project in my repositories
+4. Pantrix — Household Pantry Management App
+<sub>SLIIT project · September 2026</sub>
 
 A mobile application for tracking household food inventory and helping reduce food waste.
-<p><strong>Tech stack:</strong> Flutter · Dart · Firebase Authentication · Cloud Firestore · Riverpod</p>
 
+Technologies: Flutter · Dart · Firebase Authentication · Cloud Firestore · Riverpod
 - Track food items, quantities, expiry dates, and storage locations.
 - Household invitations and shared shopping lists.
 - Recipe-ingredient matching and surplus-food listings.
 - Firebase Authentication and Firestore security rules.
-↗ Find Project Repository
-05 · Rural Craft Marketplace
-E-commerce Website
-
-SLIIT group project · November 2025
+↗ Find the project in my repositories
+5. Rural Craft Marketplace
+<sub>E-commerce website · SLIIT group project · November 2025</sub>
 
 A marketplace project connecting rural Sri Lankan craftsmen with customers.
-<p><strong>Tech stack:</strong> MongoDB · Express.js · React.js · Node.js · JavaScript · HTML · CSS</p>
 
+Technologies: MongoDB · Express.js · React.js · Node.js · JavaScript · HTML · CSS
 - Product management and order-handling workflows.
 - Appointment booking and payment integration.
 - Responsive frontend connected to backend services through REST APIs.
-↗ View Repository
-06 · SkillBridge
-Project Repository
+↗ View Rural Craft repository
+6. SkillBridge
+A project repository featured on my GitHub profile. Visit the repository for its current implementation and technology details.
 
-Explore the repository for its current implementation and technology details.
-
-↗ View Repository
-</div>
-
+↗ View SkillBridge repository
 <p align="center">
   <a href="https://github.com/Pravinath?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-All%20Repositories-0891B2?style=for-the-badge&logo=github" alt="Explore all repositories" />
